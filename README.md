@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I'm Miguel Sanchez!👋
 
 <!--
 **MkAngelo/mkangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me
+I'm a college student from Mexico 🇲🇽 at National Polytechnic Institute currently, I'm going in the 7th semester of computer engineering. 🧑🏻💻
+Also, I've studied on some platforms like Google Activate, Platzi, and Scrum Study, getting certifications that you can check on my [LinkedIn](https://www.linkedin.com/in/mkangelo/).
