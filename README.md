@@ -9,7 +9,7 @@ This year I started to participated on differents comptetitions to tests my know
 ### Technologies 
 I've been used a lot of technologies during my degree but the most frecuently that I use are:
   
-  | Python 🐍 Django | Java ☕ | C/C++ 🔧 | Docker 🐳 | Html & CSS 🖍 |
+  | Python 🐍 Django | Java ☕ | C/C++ 🔧 | Html & CSS 🖍 | Linux 🐧 MacOS 🍎 Windows 🪟|
   
 ### Projects
 Some projects that I've done are:
@@ -23,6 +23,8 @@ Some projects that I've done are:
   
 ### Competitions
   - Hackathon Discorruption 2022 Tecnológico de Monterrey 
-  - Google Code Jam 2022 
-  - Google Kick Start 2022
-  - Hackmex IPN 2022
+  - Google Code Jam 2022 (1st round)
+  - Google Kick Start 2022 
+  - Hackmex IPN 2022 (22nd rank)
+  - Meta Hacker Cup 2022 (1st round)
+  
