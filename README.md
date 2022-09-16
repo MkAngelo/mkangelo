@@ -6,7 +6,7 @@ Also, I've studied on some platforms like Google Activate, Platzi, and Scrum Stu
 
 This year I started to participated on differents comptetitions to tests my knowlage about programming and cyber security. 👨‍💻
   
-## 🛠 Projects
+## 🛠 My Projects
 Some projects that I've done are:
   * [Gift Store 🎁](https://github.com/MkAngelo/tienda-de-regalos)
   * [Facebook Clone 💻](https://github.com/MkAngelo/Facebook-Retro)
