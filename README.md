@@ -4,18 +4,20 @@
 I'm a college student from Mexico 🇲🇽 at National Polytechnic Institute currently, I'm going in the 7th semester of computer engineering. 🧑🏻💻
 Also, I've studied on some platforms like Google Activate, Platzi, and Scrum Study, getting certifications that you can check on my [LinkedIn](https://www.linkedin.com/in/mkangelo/).
 
-This year I started to participated on differents comptetitions to tests my knowlage about programming and cyber security. 👨‍💻
+This year I started to participated on differents comptetitions to tests my knowlage about programming and cyber security. 👨‍💻 If you want to download my CV or contact me you can do it on my [web page](www.mkangelo.com)👀.
   
 ## 🛠 My Projects
-Some projects that I've done are:
-  * [Google Clone 🚀: Project developed using Html, CSS, and Javascript (CODE & RUNNING)](https://mkangelo.github.io/google-clone/)
-  * [Gift Store 🎁: Develop for help to choose a present for different events (JUST CODE)](https://github.com/MkAngelo/tienda-de-regalos)
-  * [Facebook Clone 💻: Inspire by the movie The Social Network (JUST CODE)](https://github.com/MkAngelo/Facebook-Retro)
-  * [Platzigram 🖥: The final project for Platzi Django course (JUST CODE)](https://github.com/MkAngelo/Platzigram)
-  * [Cride 🚗: The final project for Platzi advanced Django course (JUST CODE)](https://github.com/MkAngelo/cride)
-  * [Calculator 📈: Personal proyect using Python (JUST CODE)](https://github.com/MkAngelo/Calculadora)
-  * [Snake Game 🐍: Project developed using Ruby (JUST CODE)](https://github.com/MkAngelo/snake-game)
-  * [Maze Game ⁉: Personal proyect using Jave (JUST CODE)](https://github.com/MkAngelo/laberinto-game)
+|PROJECT NAME|DESCRIPTION|CODE|LINK|STATUS|
+|---|---|---|---|---|
+|Google Clone 🚀|Project developed using Html, CSS, and Javascript|[GitHub](https://github.com/MkAngelo/google-clone)|[Running](https://mkangelo.github.io/google-clone/)|Done ✅|
+|Gift Store 🎁|Develop for help to choose a present for different events|[GitHub](https://github.com/MkAngelo/tienda-de-regalos)|Inactive|Done ✅|
+|Facebook Clone 💻|Inspire by the movie The Social Network|[GitHub](https://github.com/MkAngelo/Facebook-Retro)|Inactive|Done ✅|
+|Platzigram 🖥|The final project for Platzi Django course|[GitHub](https://github.com/MkAngelo/Platzigram)|Inactive|Done ✅|
+|Cride 🚗|The final project for Platzi advanced Django course|[GitHub](https://github.com/MkAngelo/cride)|Inactive|Done ✅|
+|Calculator 📈|Personal proyect using Python|[GitHub](https://github.com/MkAngelo/Calculadora)|Inactive|Done ✅|
+|Snake Game 🐍|Project developed using Ruby|[GitHub](https://github.com/MkAngelo/snake-game)|Inactive|Done ✅|
+|Maze Game ⁉|Personal proyect using Java|[GitHub](https://github.com/MkAngelo/laberinto-game)|Inactive|Done ✅|
+
   
 ## 💻 Hackathons
   - Hackathon Discorruption 2022 Tecnológico de Monterrey 
