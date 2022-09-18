@@ -9,6 +9,7 @@ This year I started to participated on differents comptetitions to tests my know
 ## 🛠 My Projects
 |PROJECT NAME|DESCRIPTION|CODE|LINK|STATUS|
 |---|---|---|---|---|
+|Tetris Game 🕹|Project developed using Html, CSS, and Javascript|[GitHub](https://github.com/MkAngelo/tetris)|[Running](https://mkangelo.github.io/tetris/)|Done ✅|
 |Google Clone 🚀|Project developed using Html, CSS, and Javascript|[GitHub](https://github.com/MkAngelo/google-clone)|[Running](https://mkangelo.github.io/google-clone/)|Done ✅|
 |Gift Store 🎁|Develop for help to choose a present for different events|[GitHub](https://github.com/MkAngelo/tienda-de-regalos)|Inactive|Done ✅|
 |Facebook Clone 💻|Inspire by the movie The Social Network|[GitHub](https://github.com/MkAngelo/Facebook-Retro)|Inactive|Done ✅|
