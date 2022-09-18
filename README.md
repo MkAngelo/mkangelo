@@ -8,13 +8,14 @@ This year I started to participated on differents comptetitions to tests my know
   
 ## 🛠 My Projects
 Some projects that I've done are:
-  * [Gift Store 🎁](https://github.com/MkAngelo/tienda-de-regalos)
-  * [Facebook Clone 💻](https://github.com/MkAngelo/Facebook-Retro)
-  * [Platzigram 🖥](https://github.com/MkAngelo/Platzigram)
-  * [Cride 🚗](https://github.com/MkAngelo/cride)
-  * [Calculator 📈](https://github.com/MkAngelo/Calculadora)
-  * [Snake Game 🐍](https://github.com/MkAngelo/snake-game)
-  * [Maze Game ⁉](https://github.com/MkAngelo/laberinto-game)
+  * [Google Clone 🚀: Project developed using Html, CSS, and Javascript (CODE & RUNNING)](https://mkangelo.github.io/google-clone/)
+  * [Gift Store 🎁: Develop for help to choose a present for different events (JUST CODE)](https://github.com/MkAngelo/tienda-de-regalos)
+  * [Facebook Clone 💻: Inspire by the movie The Social Network (JUST CODE)](https://github.com/MkAngelo/Facebook-Retro)
+  * [Platzigram 🖥: The final project for Platzi Django course (JUST CODE)](https://github.com/MkAngelo/Platzigram)
+  * [Cride 🚗: The final project for Platzi advanced Django course (JUST CODE)](https://github.com/MkAngelo/cride)
+  * [Calculator 📈: Personal proyect using Python (JUST CODE)](https://github.com/MkAngelo/Calculadora)
+  * [Snake Game 🐍: Project developed using Ruby (JUST CODE)](https://github.com/MkAngelo/snake-game)
+  * [Maze Game ⁉: Personal proyect using Jave (JUST CODE)](https://github.com/MkAngelo/laberinto-game)
   
 ## 💻 Hackathons
   - Hackathon Discorruption 2022 Tecnológico de Monterrey 
