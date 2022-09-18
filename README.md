@@ -4,7 +4,7 @@
 I'm a college student from Mexico 🇲🇽 at National Polytechnic Institute currently, I'm going in the 7th semester of computer engineering. 🧑🏻💻
 Also, I've studied on some platforms like Google Activate, Platzi, and Scrum Study, getting certifications that you can check on my [LinkedIn](https://www.linkedin.com/in/mkangelo/).
 
-This year I started to participated on differents comptetitions to tests my knowlage about programming and cyber security. 👨‍💻 If you want to download my CV or contact me you can do it on my [web page](www.mkangelo.com)👀.
+This year I started to participated on differents comptetitions to tests my knowlage about programming and cyber security. 👨‍💻 If you want to download my CV or contact me you can do it on my [web page](https://www.mkangelo.com/)👀.
   
 ## 🛠 My Projects
 |PROJECT NAME|DESCRIPTION|CODE|LINK|STATUS|
