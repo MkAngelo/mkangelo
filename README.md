@@ -1,10 +1,10 @@
 # Hi there, I'm Miguel Sanchez!👋
 
 ## 👋 About me
-I'm a college student from Mexico 🇲🇽 at National Polytechnic Institute currently, I'm going in the 7th semester of computer engineering. 🧑🏻💻
+I'm a college student from Mexico, I'm going in the 8th semester of software engineering. 🧑🏻💻
 Also, I've studied on some platforms like Google Activate, Platzi, and Scrum Study, getting certifications that you can check on my [LinkedIn](https://www.linkedin.com/in/mkangelo/).
 
-This year I started to participated on differents comptetitions to tests my knowlage about programming and cyber security. 👨‍💻 If you want to download my CV or contact me you can do it on my [web page](https://www.mkangelo.com/)👀.
+The last year I started to participated on differents comptetitions to tests my knowlage about programming and cyber security. 👨‍💻 If you want to download my CV or contact me you can do it on my [web page](https://www.mkangelo.com/)👀.
   
 ## 🛠 My Projects
 |PROJECT NAME|DESCRIPTION|CODE|LINK|STATUS|
